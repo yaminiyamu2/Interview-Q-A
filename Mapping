@@ -152,31 +152,48 @@ Overall, Google Mapping is a vital tool that enhances navigation, improves acces
 ***What are the colors on the google map and what they indicates?
 Google Maps uses a variety of colors to convey different types of information. Here’s a breakdown of the main colors and their meanings:
 1.Blue:
-   -Water Bodies: Represents lakes, rivers, and oceans.
-   -Routes: Indicates public transport routes, such as bus or train lines.
+   ->Water Bodies: Represents lakes, rivers, and oceans.
+   ->Routes: Indicates public transport routes, such as bus or train lines.
 2.Green:
-   -Parks and Recreational Areas: Indicates parks, forests, and other natural reserves.
-   -Vegetation: Areas with a lot of greenery, like agricultural land.
+   ->Parks and Recreational Areas: Indicates parks, forests, and other natural reserves.
+   ->Vegetation: Areas with a lot of greenery, like agricultural land.
 3.Brown:
-   -Terrain: Often used for mountainous areas or elevation changes.
+   ->Terrain: Often used for mountainous areas or elevation changes.
 4.Gray:
-   -Roads: Shows major highways and roads. Lighter shades often indicate less important streets.
-   -Urban Areas: Indicates built-up areas, like cities and towns.
+   ->Roads: Shows major highways and roads. Lighter shades often indicate less important streets.
+   ->Urban Areas: Indicates built-up areas, like cities and towns.
 5.Red:
-   -Traffic: Used to show heavy traffic conditions on roads. Dark red indicates severe congestion.
-   -Important Locations: Sometimes indicates important points of interest.
+   ->Traffic: Used to show heavy traffic conditions on roads. Dark red indicates severe congestion.
+   ->Important Locations: Sometimes indicates important points of interest.
 6.Yellow:
-   -Moderate Traffic: Indicates areas with moderate traffic congestion.
+   ->Moderate Traffic: Indicates areas with moderate traffic congestion.
 7.Orange:
-   -Construction Zones: Can indicate road construction or detours.
+   ->Construction Zones: Can indicate road construction or detours.
 8.Purple/Other Colors:
-   -Business Locations: Sometimes used to highlight specific business types, like restaurants or hotels.
+   ->Business Locations: Sometimes used to highlight specific business types, like restaurants or hotels.
 These colors help users quickly understand the layout of an area and navigate more effectively, making it easier to find routes,
 assess traffic conditions, and identify points of interest.
 
+***What is updated in mapping ?
+     Mapping is updated with new data on roads, buildings, businesses, and landmarks.New roads and highways are added as they are builtChanges to existing roads, such as closures or
+construction, are refle...
+LANE MAPPING:
+->Align the road segment.
+->measure the road till the border of the road segments.
+->assign attributes as per latest imagery.
+HD MAPS:
+->We need to check with the lane part of the road which helps in best road quality on maps.
+->It enables the automation car to navigate safely
 
+***What is GPS in mapping and what is pinpoint ?
+GPS in mapping is a technology that uses satellites to determine location.Pinpoint is the exact location on a map.
 
+***Google map track traffic?
+Google Maps continuously combines the data coming in from all the cars on the road and shows it as colored lines on the traffic layer, indicating clear, slow-moving, or
+heavily congested traffic.
 
+***What is an analyst? Analysts conduct research and analyze the data with the policies
+given by the client
 
 
 
